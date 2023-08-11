@@ -33,11 +33,8 @@ Pacotes em Python
 
 # aula 5
 
-Métodos mágicos aritméticos
-
-Métodos mágicos de comparação
-
-Métodos mágicos de representação
+Polimorfismo
+Herança
 
 # aula 6
 
@@ -46,9 +43,11 @@ Atributos estáticos
 Métodos estáticos
 
 # aula 7
+Métodos mágicos aritméticos
 
-Polimorfismo
-Herança
+Métodos mágicos de comparação
+
+Métodos mágicos de representação
 
 # aula 8
 
