@@ -1,4 +1,11 @@
 from datetime import date
+import sys
+import os
+
+module_path = os.path.abspath('modulosepacotes')
+sys.path.append(module_path)
+
+from modulosepacotes.bibliotecacontas.titulares.titular import Titular
 
 
 def run():
