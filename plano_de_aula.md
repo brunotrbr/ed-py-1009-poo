@@ -51,7 +51,7 @@ Métodos mágicos de representação
 
 # aula 8
 
-Revisão dos tópicos do módulo
+Diagrama UML
 
 # aula 9
 
