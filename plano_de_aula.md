@@ -55,4 +55,4 @@ Diagrama UML
 
 # aula 9
 
-Aula dedicada à devolutiva da avaliação por rubrica / auto-avaliação
+Aula dedicada à devolutiva da avaliação por rubrica / auto-avaliação e apresentação de trabalhos
